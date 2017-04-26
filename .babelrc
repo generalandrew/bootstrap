@@ -1,0 +1,9 @@
+{
+  "plugins": ["add-module-exports"],
+  "presets": ["es2015", "stage-0"],
+  "env": {
+    "test": {
+      "plugins": ["istanbul"]
+    }
+  }
+}

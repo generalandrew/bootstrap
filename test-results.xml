@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.044000000000000004" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2017-04-26T16:38:13" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="routes/index" timestamp="2017-04-26T16:38:13" tests="0" file="/Users/cs/Projects/bootstrap/test/routes/index.test.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="GET /" timestamp="2017-04-26T16:38:13" tests="1" file="/Users/cs/Projects/bootstrap/test/routes/index.test.js" failures="0" time="0.034">
+    <testcase name="routes/index GET / should handle request" time="0.034" classname="should handle request">
+    </testcase>
+  </testsuite>
+  <testsuite name="server" timestamp="2017-04-26T16:38:13" tests="2" file="/Users/cs/Projects/bootstrap/test/server.test.js" failures="0" time="0.01">
+    <testcase name="server should exist" time="0" classname="should exist">
+    </testcase>
+    <testcase name="server should respond to ping request" time="0.01" classname="should respond to ping request">
+    </testcase>
+  </testsuite>
+</testsuites>
